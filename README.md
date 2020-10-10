@@ -5,6 +5,8 @@ A curated list of awesome open source healthcare tools, machine learning algorit
 ## Contents
 
 - [Medical specialties](#medical-specialties)
+- [Medical privacy](#medical-privacy)
+- [References](#references)
 
 ### Medical specialties
   * [Allergy, Immunology, & Rheumatology](README.md)
@@ -44,3 +46,7 @@ A curated list of awesome open source healthcare tools, machine learning algorit
   * [Speech Pathology](README.md)
   * [Surgery](README.md)
   * [Urology](README.md)
+  
+### Medical Privacy
+
+### References
