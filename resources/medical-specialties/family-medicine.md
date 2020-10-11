@@ -10,6 +10,7 @@ There are family medicine subspecialties as well, including the following:
 * Sleep medicine
 * Sports medicine
 
+(definition from [here](https://www.sgu.edu/blog/medical/ultimate-list-of-medical-specialties/))
 
 # Contents 
 - [:books: ML Research Papers](#research-papers)
