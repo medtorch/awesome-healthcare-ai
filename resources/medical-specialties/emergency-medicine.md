@@ -14,6 +14,7 @@ Emergency medicine is also home to several subspecialties, including the followi
 * Sports medicine
 * Undersea and hyperbaric medicine
 
+(definition from [here](https://www.sgu.edu/blog/medical/ultimate-list-of-medical-specialties/))
 
 # Contents 
 - [:books: ML Research Papers](#research-papers)
