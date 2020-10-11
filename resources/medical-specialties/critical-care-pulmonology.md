@@ -1,4 +1,4 @@
-# Critical Care & Pulmonology :heavy_exclamation_mark:
+# Critical Care :heavy_exclamation_mark:
 
 
 
