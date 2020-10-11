@@ -48,5 +48,8 @@ A curated list of awesome open source healthcare tools, machine learning algorit
   * [Urology](resources/medical-specialties/urology.md)
   
 ### Medical Privacy
-
+  * [Safe harbour/Anonymization/De-identification]
+  * [Cryptography]
+  
 ### References
+  * [Stanford Medicine](https://stanford.cloud-cme.com/default.aspx)
