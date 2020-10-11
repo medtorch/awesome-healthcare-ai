@@ -4,9 +4,9 @@ Dermatologists are physicians who treat adult and pediatric patients with disord
 
 Subspecialties within the dermatology field include the following:
 
-• Dermatopathology
-• Pediatric dermatology
-• Procedural dermatology
+* Dermatopathology
+* Pediatric dermatology
+* Procedural dermatology
 
 (definition from [here](https://www.sgu.edu/blog/medical/ultimate-list-of-medical-specialties/))
 
