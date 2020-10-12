@@ -1,4 +1,4 @@
-# awesome-healthcare-ai
+# awesome-healthcare-ai [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome open source healthcare tools, machine learning algorithms, datasets and research papers.
 
 Disclaimer :exclamation: I am not a medical specialist, and there might be mistakes. :exclamation:
