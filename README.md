@@ -5,8 +5,8 @@ A curated list of awesome open source healthcare tools, machine learning algorit
 ## Contents
 
 - :zap: [Medical specialties](#medical-specialties)
-- :cyclone: [Medical privacy](#medical-privacy)
-- :key: [Medical tasks](#medical-tasks)
+- :cyclone: [Medical tasks](#medical-tasks)
+- :key: [Medical privacy](#medical-privacy)
 - :fire: [Open-source](#open-source)
 - :book: [References](#references)
 
