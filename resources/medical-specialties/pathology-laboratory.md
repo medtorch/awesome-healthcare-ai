@@ -32,3 +32,4 @@ Pathology umbrellas several areas of subspecialty within the field, including th
 ### Datasets
 - 
 ### Startups
+- [PathAI](https://www.pathai.com/) - PathAI is developing technology that assists pathologists in making rapid and accurate diagnoses for every patient, every time. PathAI is also building solutions to help identify patients that benefit from novel therapies, to make scalable personalized medicine a reality.
