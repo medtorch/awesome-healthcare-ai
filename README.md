@@ -13,7 +13,7 @@ Disclaimer :exclamation: I am not a medical specialist, and there might be mista
 - :bar_chart: [Generic datasets](#generic-datasets)
 - :book: [References](#references)
 
-### :zap: Medical specialties 
+### Medical specialties :zap: 
   * [Allergy, Immunology, & Rheumatology](resources/medical-specialties/allergy-immunology-rheumatology.md)
   * [Anesthesiology](resources/medical-specialties/anesthesiology.md)
   * [Cardiovascular Health](resources/medical-specialties/cardiovascular-health.md)
@@ -53,7 +53,7 @@ Disclaimer :exclamation: I am not a medical specialist, and there might be mista
   * [Surgery](resources/medical-specialties/surgery.md)
   * [Urology](resources/medical-specialties/urology.md)
   
-### :cyclone: Medical tasks 
+### Medical tasks :cyclone:
   * [Semantic Segmentation](https://paperswithcode.com/area/medical/semantic-segmentation)
   * [Medical Image Segmentation](https://paperswithcode.com/area/medical/medical-image-segmentation)
   * [3D](https://paperswithcode.com/area/medical/3d)
@@ -125,11 +125,11 @@ Disclaimer :exclamation: I am not a medical specialist, and there might be mista
   * [Sequential Diagnosis](https://paperswithcode.com/task/sequential-diagnosis)
   * [Medical VQA](https://github.com/aioz-ai/MICCAI19-MedVQA)
 
-### :key: Medical Privacy 
+### Medical Privacy :key: 
   * Safe harbour/Anonymization/De-identification
   * Cryptography
   
-### :fire: Open-Source libraries
+### Open-Source libraries :fire:
   * NLP
     - [medaCy](https://github.com/NLPatVCU/medaCy) - Medical Text Mining and Information Extraction with spaCy.
   * Computer Vision
@@ -150,7 +150,7 @@ Disclaimer :exclamation: I am not a medical specialist, and there might be mista
   * Compliance
     - [Datica HIPAA Compliance Policies](https://github.com/catalyzeio/policies)
     
-### :bar_chart: Generic datasets
+### Generic datasets :bar_chart: 
   * [MedPix](https://medpix.nlm.nih.gov/home) Database of 53,000 medical images from 13,000 patients with annotations. Requires registration.
   * [Medical Decathlon](http://medicaldecathlon.com/) - Generalisable 3D Semantic Segmentation
   * MedNIST
@@ -160,7 +160,7 @@ Disclaimer :exclamation: I am not a medical specialist, and there might be mista
  
 
   
-### :book: References 
+### References :book: 
   * [Stanford Medicine](https://stanford.cloud-cme.com/default.aspx)
   * [Awesome Machine Learning in Biomedical Healthcare Imaging](https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging)
   * [Papers With Code](https://paperswithcode.com/area/medical)
