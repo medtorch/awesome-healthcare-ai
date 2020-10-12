@@ -50,6 +50,31 @@ A curated list of awesome open source healthcare tools, machine learning algorit
   * [Surgery](resources/medical-specialties/surgery.md)
   * [Urology](resources/medical-specialties/urology.md)
   
+### Medical tasks
+  * [Semantic Segmentation](https://paperswithcode.com/area/medical/semantic-segmentation)
+  * [Medical Image Segmentation](https://paperswithcode.com/area/medical/medical-image-segmentation)
+  * [3D](https://paperswithcode.com/area/medical/3d)
+  * [EEG](https://paperswithcode.com/area/medical/eeg)
+  * [3D Absolute Human Pose Estimation](https://paperswithcode.com/area/medical/3d-absolute-human-pose-estimation)
+  * [Drug discovery](https://paperswithcode.com/area/medical/drug-discovery)
+  * [Electrocardiography (ECG)](https://paperswithcode.com/area/medical/electrocardiography-ecg)
+  * [Medical Diagnosis](https://paperswithcode.com/area/medical/medical-diagnosis)
+  * [Medical Image Registration](https://paperswithcode.com/area/medical/medical-image-registration)
+  * [Cancer Detection](https://paperswithcode.com/area/medical/cancer)
+  * [Disease Prediction](https://paperswithcode.com/area/medical/disease-prediction)
+  * [Sleep Quality prediction](https://paperswithcode.com/area/medical/sleep-quality-prediction)
+  * [Mortality Prediction](https://paperswithcode.com/area/medical/mortality-prediction)
+  * [Synthetic Data Generation](https://paperswithcode.com/area/medical/synthetic-data-generation)
+  * [Epidemiology](https://paperswithcode.com/area/medical/epidemiology)
+  * [Skin diseases](https://paperswithcode.com/area/medical/skin)
+  * [Medical Image Generation](https://paperswithcode.com/area/medical/medical-image-generation)
+  * [Length-of-Stay prediction](https://paperswithcode.com/area/medical/length-of-stay-prediction)
+  * [Pneumonia Detection](https://paperswithcode.com/area/medical/pneumonia-detection)
+  * [Seizure Detection](https://paperswithcode.com/area/medical/seizure-detection)
+  * [Breast Tumour Classification](https://paperswithcode.com/area/medical/breast-tumour-classification)
+  * [Diabetic Retinopathy Detection](https://paperswithcode.com/area/medical/diabetic-retinopathy-detection)
+  * [Protein Secondary Structure Prediction](https://paperswithcode.com/area/medical/protein-secondary-structure-prediction)
+
 ### Medical Privacy
   * Safe harbour/Anonymization/De-identification
   * Cryptography
