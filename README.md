@@ -54,6 +54,7 @@ A curated list of awesome open source healthcare tools, machine learning algorit
   * Cryptography
   
 ### Open-Source
+  * [Papers with code](https://paperswithcode.com/area/medical)
   * NLP
     - [medaCy](https://github.com/NLPatVCU/medaCy) - Medical Text Mining and Information Extraction with spaCy.
   * Computer Vision
