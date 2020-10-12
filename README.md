@@ -18,7 +18,7 @@ Disclaimer :exclamation: I am not a medical specialist, and there might be mista
   * [Anesthesiology](resources/medical-specialties/anesthesiology.md)
   * [Cardiovascular Health](resources/medical-specialties/cardiovascular-health.md)
   * [Complimentary Medicine](resources/medical-specialties/complimentary-medicine.md)
-  * [Critical Care](resources/medical-specialties/critical-care-pulmonology.md)
+  * [Critical Care](resources/medical-specialties/critical-care.md)
   * [Dermatology](resources/medical-specialties/dermatology.md)
   * [Emergency Medicine & Trauma](resources/medical-specialties/emergency-medicine.md)
   * [Endocrinology & Metabolism](resources/medical-specialties/endocrinology.md)
