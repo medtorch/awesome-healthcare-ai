@@ -75,5 +75,6 @@ They can also pursue a subspecialty in the following areas:
 
 - [Visual Concept Extraction Challenge in Radiology ](http://www.visceral.eu/)
 
+- [Bone X-Ray Deep Learning Competition using MURA](https://stanfordmlgroup.github.io/competitions/mura/)
 
 ### Startups
