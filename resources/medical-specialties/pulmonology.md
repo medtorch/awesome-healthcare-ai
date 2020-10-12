@@ -14,6 +14,7 @@ Pulmonology is considered a branch of internal medicine, and is related to inten
 ### Research Papers & articles
 - [Application of artificial intelligence in respiratory medicine: Has the time arrived?](https://onlinelibrary.wiley.com/doi/full/10.1111/resp.13676), Lovejoy et. a, 2019.
 - [Preferred Networks Uses Deep Learning to Help Kyoto Physicians Diagnose Lung Cancer from Chest X-Ray Images](https://preferred.jp/en/news/pr20201012/)
+- [COVID-19 Classification of X-ray Images Using Deep Neural Networks](https://www.medrxiv.org/content/10.1101/2020.10.01.20204073v1)
 ### Open-source
 - 
 ### Datasets
