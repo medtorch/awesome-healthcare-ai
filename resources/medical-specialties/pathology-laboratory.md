@@ -26,7 +26,7 @@ Pathology umbrellas several areas of subspecialty within the field, including th
 - [:eyes: Startups](#startups)
 
 ### Research Papers
-- 
+- [Deep learning-based Helicobacter pylori detection: A diagnostic pathology study](https://www.medrxiv.org/content/10.1101/2020.08.23.20179010v1), 2020
 ### Open-source
 - 
 ### Datasets
