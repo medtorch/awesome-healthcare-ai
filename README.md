@@ -56,5 +56,7 @@ A curated list of awesome open source healthcare tools, machine learning algorit
 ### Open-Source
   * NLP
     - [medaCy](https://github.com/NLPatVCU/medaCy) - Medical Text Mining and Information Extraction with spaCy.
+  * Computer Vision
+    - [monai](https://github.com/Project-MONAI/MONAI) - MONAI is a PyTorch-based, open-source framework for deep learning in healthcare imaging, part of PyTorch Ecosystem.
 ### References
   * [Stanford Medicine](https://stanford.cloud-cme.com/default.aspx)
