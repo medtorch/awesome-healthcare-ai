@@ -120,12 +120,13 @@ A curated list of awesome open source healthcare tools, machine learning algorit
   * [Multi Diseases Detection](https://paperswithcode.com/task/multi-diseases-detection)
   * [Muscular Movement Recognition](https://paperswithcode.com/task/muscular-movement-recognition)
   * [Sequential Diagnosis](https://paperswithcode.com/task/sequential-diagnosis)
+  * [Medical VQA](https://github.com/aioz-ai/MICCAI19-MedVQA)
 
 ### :key: Medical Privacy 
   * Safe harbour/Anonymization/De-identification
   * Cryptography
   
-### :fire: Open-Source 
+### :fire: Open-Source libraries
   * NLP
     - [medaCy](https://github.com/NLPatVCU/medaCy) - Medical Text Mining and Information Extraction with spaCy.
   * Computer Vision
