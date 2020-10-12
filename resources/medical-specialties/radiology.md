@@ -57,4 +57,8 @@ They can also pursue a subspecialty in the following areas:
 
 - [CT Scans for Colon Cancer](https://wiki.cancerimagingarchive.net/display/Public/CT+COLONOGRAPHY#e88604ec5c654f60a897fa77906f88a6)
 
+- [CheXpert: A Large Chest X-Ray Dataset And Competition](https://stanfordmlgroup.github.io/competitions/chexpert/)
+
+- [Medical Image Net](http://langlotzlab.stanford.edu/projects/medical-image-net/)
+
 ### Startups
