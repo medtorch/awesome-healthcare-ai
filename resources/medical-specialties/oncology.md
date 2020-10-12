@@ -18,6 +18,7 @@ Oncology is a branch of medicine that deals with the prevention, diagnosis, and 
 - [Breast Tumour Classification](https://paperswithcode.com/area/medical/breast-tumour-classification)
 - [Lung Nodule Classification](https://paperswithcode.com/task/lung-nodule-classification)
 - [Cancer Metastasis Detection](https://paperswithcode.com/task/cancer-metastasis-detection)
+- [Prediction of immunotherapy response using deep learning of PET/CT images](https://www.medrxiv.org/content/10.1101/2020.10.09.20209445v1)
   
 ### Open-source
 - 
