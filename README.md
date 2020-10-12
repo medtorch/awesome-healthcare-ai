@@ -134,3 +134,5 @@ A curated list of awesome open source healthcare tools, machine learning algorit
     
 ### :book: References 
   * [Stanford Medicine](https://stanford.cloud-cme.com/default.aspx)
+  * [Awesome Machine Learning in Biomedical Healthcare Imaging](https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging)
+  * [Papers With Code](https://paperswithcode.com/area/medical)
