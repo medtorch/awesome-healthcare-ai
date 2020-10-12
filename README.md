@@ -14,6 +14,7 @@ Disclaimer :exclamation: I am not a medical specialist, and there might be mista
 - :book: [References](#references)
 
 ### Medical specialties
+  * [General](resources/medical-specialties/README.md)
   * [Allergy, Immunology, & Rheumatology](resources/medical-specialties/allergy-immunology-rheumatology.md)
   * [Anesthesiology](resources/medical-specialties/anesthesiology.md)
   * [Cardiovascular Health](resources/medical-specialties/cardiovascular-health.md)
