@@ -8,8 +8,8 @@ It is a cornerstone of public health, and shapes policy decisions and evidence-b
 
 # Contents 
 - [:books: ML Research Papers](#research-papers)
-- [:smiley_cat: Open-source](#open-source)
-- [:notebook: Datasets](#datasets)
+- [:fire: Open-source](#open-source)
+- [:bar_chart: Datasets](#datasets)
 - [:eyes: Startups](#startups)
 
 ### Research Papers & Articles
