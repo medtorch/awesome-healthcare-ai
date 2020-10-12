@@ -4,13 +4,13 @@ A curated list of awesome open source healthcare tools, machine learning algorit
 
 ## Contents
 
-- [Medical specialties](#medical-specialties)
-- [Medical privacy](#medical-privacy)
-- [Medical tasks](#medical-tasks)
-- [Open-source](#open-source)
-- [References](#references)
+- :zap: [Medical specialties](#medical-specialties)
+- :cyclone: [Medical privacy](#medical-privacy)
+- :key: [Medical tasks](#medical-tasks)
+- :fire: [Open-source](#open-source)
+- :book: [References](#references)
 
-### Medical specialties :zap:
+### :zap: Medical specialties 
   * [Allergy, Immunology, & Rheumatology](resources/medical-specialties/allergy-immunology-rheumatology.md)
   * [Anesthesiology](resources/medical-specialties/anesthesiology.md)
   * [Cardiovascular Health](resources/medical-specialties/cardiovascular-health.md)
@@ -50,7 +50,7 @@ A curated list of awesome open source healthcare tools, machine learning algorit
   * [Surgery](resources/medical-specialties/surgery.md)
   * [Urology](resources/medical-specialties/urology.md)
   
-### Medical tasks :cyclone:
+### :cyclone: Medical tasks 
   * [Semantic Segmentation](https://paperswithcode.com/area/medical/semantic-segmentation)
   * [Medical Image Segmentation](https://paperswithcode.com/area/medical/medical-image-segmentation)
   * [3D](https://paperswithcode.com/area/medical/3d)
@@ -75,15 +75,15 @@ A curated list of awesome open source healthcare tools, machine learning algorit
   * [Diabetic Retinopathy Detection](https://paperswithcode.com/area/medical/diabetic-retinopathy-detection)
   * [Protein Secondary Structure Prediction](https://paperswithcode.com/area/medical/protein-secondary-structure-prediction)
 
-### Medical Privacy :key:
+### :key: Medical Privacy 
   * Safe harbour/Anonymization/De-identification
   * Cryptography
   
-### Open-Source :fire:
+### :fire: Open-Source 
   * NLP
     - [medaCy](https://github.com/NLPatVCU/medaCy) - Medical Text Mining and Information Extraction with spaCy.
   * Computer Vision
     - [monai](https://github.com/Project-MONAI/MONAI) - MONAI is a PyTorch-based, open-source framework for deep learning in healthcare imaging, part of PyTorch Ecosystem.
     
-### References :book:
+### :book: References 
   * [Stanford Medicine](https://stanford.cloud-cme.com/default.aspx)
