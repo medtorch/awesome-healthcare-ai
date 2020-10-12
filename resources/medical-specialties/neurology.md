@@ -41,5 +41,6 @@ Neurology offers several subspecialties, including the following:
 - [BrainCloud](http://braincloud.jhmi.edu/)
 - [The Human Connectome Project](http://www.humanconnectomeproject.org/)
 - [UCI - EEG Database Data Set](http://archive.ics.uci.edu/ml/datasets/EEG+Database)
+- [MRI Lesion Segmentation in Multiple Sclerosis Database](http://www.ehealthlab.cs.ucy.ac.cy/index.php/facilities/32-software/218-datasets)
 
 ### Startups
