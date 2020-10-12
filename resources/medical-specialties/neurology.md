@@ -43,5 +43,8 @@ Neurology offers several subspecialties, including the following:
 - [UCI - EEG Database Data Set](http://archive.ics.uci.edu/ml/datasets/EEG+Database)
 - [MRI Lesion Segmentation in Multiple Sclerosis Database](http://www.ehealthlab.cs.ucy.ac.cy/index.php/facilities/32-software/218-datasets)
 - [Multiple sclerosis lesion segmentation](http://www.ia.unc.edu/MSseg/)
-
+- [EEG Challenge Datasets on Kaggle](https://www.kaggle.com/c/melbourne-university-seizure-prediction)
+- [American Epilepsy Society Seizure Prediction Challenge](https://www.kaggle.com/c/seizure-prediction)
+- [UPenn and Mayo Clinic's Seizure Detection Challenge](https://www.kaggle.com/c/seizure-detection)
+- [Grasp-and-Lift EEG Detection](https://www.kaggle.com/c/grasp-and-lift-eeg-detection)
 ### Startups
