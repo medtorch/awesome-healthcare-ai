@@ -1,13 +1,17 @@
 # Generic resources
 
 
+- :book: [Articles](#articles)
 - :fire: [Open-source](#open-source)
 - :bar_chart: [Datasets](#datasets)
 
-  
+### Articles
+ - 
+
 ### Open-Source libraries
   * NLP
     - [medaCy](https://github.com/NLPatVCU/medaCy) - Medical Text Mining and Information Extraction with spaCy.
+    - [deidentify](https://github.com/nedap/deidentify)
   * Computer Vision
     - [monai](https://github.com/Project-MONAI/MONAI) - MONAI is a PyTorch-based, open-source framework for deep learning in healthcare imaging, part of PyTorch Ecosystem.
   * Imaging
