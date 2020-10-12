@@ -8,8 +8,8 @@ SLPs specialize in the evaluation, diagnosis, and treatment of communication dis
 
 # Contents 
 - [:books: ML Research Papers](#research-papers)
-- [:smiley_cat: Open-source](#open-source)
-- [:notebook: Datasets](#datasets)
+- [:fire: Open-source](#open-source)
+- [:bar_chart: Datasets](#datasets)
 - [:eyes: Startups](#startups)
 
 ### Research Papers
