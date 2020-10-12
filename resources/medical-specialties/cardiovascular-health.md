@@ -26,6 +26,6 @@ Cardiology is a branch of medicine that deals with the disorders of the heart as
 - [Stanford’s South African Heart Disease Dataset](https://web.stanford.edu/~hastie/ElemStatLearn//datasets/SAheart.data)
 - [Sunnybrook Cardiac Data](http://www.cardiacatlas.org/studies/sunnybrook-cardiac-data/)
 - [UCI - Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
-- [EchoNet-Dynamic](https://echonet.github.io/dynamic/index.html) - A Large New Cardiac Motion Video Data Resource for Medical Machine Learning, from Stanford. Overview:  Access: https://echonet.github.io/dynamic/index.html#access
-
+- [EchoNet-Dynamic](https://echonet.github.io/dynamic/index.html) - A Large New Cardiac Motion Video Data Resource for Medical Machine Learning, from Stanford. Overview:
+- [Multi-Ethnic Study of Atherosclerosis (MESA)](https://sleepdata.org/datasets/mesa) - Multi-Ethnic Study of Atherosclerosis (MESA) is an NHLBI-sponsored 6-center collaborative longitudinal investigation of factors associated with the development of subclinical cardiovascular disease and the progression of subclinical to clinical cardiovascular disease in 6,814 black, white, Hispanic, and Chinese-American men and women initially ages 45-84 at baseline in 2000-2002.
 ### Startups
