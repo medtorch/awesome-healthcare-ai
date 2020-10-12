@@ -28,13 +28,13 @@ Internal medicine subspecialties including the following:
 (definition from [here](https://www.sgu.edu/blog/medical/ultimate-list-of-medical-specialties/))
 
 # Contents 
-- [:books: ML Research Papers](#research-papers)
+- [:books: ML Research Papers & Interviews](#research-papers)
 - [:smiley_cat: Open-source](#open-source)
 - [:notebook: Datasets](#datasets)
 - [:eyes: Startups](#startups)
 
-### Research Papers
-- 
+### Research Papers & Interviews
+- [What (another) Internal Medicine Physician thinks about ML in healthcare](https://medium.com/building-trust-and-adoption-in-machine-learning-in/what-another-internal-medicine-physician-thinks-about-ml-in-healthcare-d2771b22e536)
 ### Open-source
 - 
 ### Datasets
