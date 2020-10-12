@@ -47,4 +47,8 @@ Neurology offers several subspecialties, including the following:
 - [American Epilepsy Society Seizure Prediction Challenge](https://www.kaggle.com/c/seizure-prediction)
 - [UPenn and Mayo Clinic's Seizure Detection Challenge](https://www.kaggle.com/c/seizure-detection)
 - [Grasp-and-Lift EEG Detection](https://www.kaggle.com/c/grasp-and-lift-eeg-detection)
+- [Parkinsons Data Set](https://archive.ics.uci.edu/ml/datasets/parkinsons)
+- [Parkinsons Telemonitoring Data Set](https://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring)
+- [Parkinson Speech Dataset with Multiple Types of Sound Recordings Data Set](https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings)
+- [Parkinson's Disease Classification Data Set](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification)
 ### Startups
