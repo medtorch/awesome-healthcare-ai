@@ -34,7 +34,7 @@ They can also pursue a subspecialty in the following areas:
 ### Research Papers
 - 
 ### Open-source
-- 
+- [OpenREM](https://bitbucket.org/openrem/openrem/src/develop/) - OpenREM is a free, open source application for patient radiation dose monitoring. The software is capable of importing and displaying data from a wide variety of x-ray dose related sources with filtering, charts and analysis. The software also enables easy export of the data in a form that is suitable for further analysis by suitably qualified medical physics personnel.
 ### Datasets
 - [Center for Invivo Microscopy (CIVM), Embrionic and Neonatal Mouse (H&E, MR)](http://www.civm.duhs.duke.edu/devatlas/)
 [user guide](http://www.civm.duhs.duke.edu/devatlas/UserGuide.pdf)
