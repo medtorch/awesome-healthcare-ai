@@ -23,7 +23,7 @@ Emergency medicine is also home to several subspecialties, including the followi
 - [:eyes: Startups](#startups)
 
 ### Research Papers
-- 
+- [An Interpretable Deep Learning Model for Early Prediction of Sepsis in the Emergency Department](https://www.medrxiv.org/content/10.1101/2020.09.21.20198895v1)
 ### Open-source
 - 
 ### Datasets
