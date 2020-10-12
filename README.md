@@ -46,7 +46,7 @@ Disclaimer :exclamation: I am not a medical specialist, and there might be mista
   * [Psychiatry & Behavioral Sciences](resources/medical-specialties/psychiatry.md)
   * [Pulmonology](resources/medical-specialties/pulmonology.md)
   * [Radiology](resources/medical-specialties/radiology.md)
-  * [Sleep Medicine](resources/medical-specialties/anesthesiology.md)
+  * [Sleep Medicine](resources/medical-specialties/sleep-medicine.md)
   * [Social Welfare](resources/medical-specialties/social-welfare.md)
   * [Speech Pathology](resources/medical-specialties/speech-pathology.md)
   * [Surgery](resources/medical-specialties/surgery.md)
