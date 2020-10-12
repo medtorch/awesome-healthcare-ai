@@ -23,10 +23,23 @@ Neurology offers several subspecialties, including the following:
 - [:notebook: Datasets](#datasets)
 - [:eyes: Startups](#startups)
 
-### Research Papers
-- 
+### Research Papers & Articles
+- [Near real-time intraoperative brain tumor diagnosis using stimulated Raman histology and deep neural networks](https://www.nature.com/articles/s41591-019-0715-9) - Nature Medicine - 2020
+- [A Deep Learning Model to Predict a Diagnosis of Alzheimer Disease by Using 18F-FDG PET of the Brain](https://pubs.rsna.org/doi/10.1148/radiol.2018180958) - 2018
+- [High-precision automated reconstruction of neurons with flood-filling networks](https://www.nature.com/articles/s41592-018-0049-4) - 2018
+- [Machine learning in neurology: what neurologists can learn from machines and vice versa](https://www.ncbi.nlm.nih.gov/pubmed/30073503) - 2018
+- [AI and Neuroscience: A virtuous circle](https://deepmind.com/blog/ai-and-neuroscience-virtuous-circle/)
+- [Artificial Intelligence and Neurology](https://www.omicsonline.org/open-access/artificial-intelligence-and-neurology-.php?aid=84397) - 2016
+
 ### Open-source
-- 
+- [MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python](https://github.com/mne-tools/mne-python)
+- [nilearn: machine learning for neuroimaging in Python](https://github.com/nilearn/nilearn)
+- [visbrain: brain data visualization in Python](https://github.com/EtienneCmb/visbrain)
+
 ### Datasets
-- 
+- [Allen Brain Atlas](http://portal.brain-map.org/)
+- [BrainCloud](http://braincloud.jhmi.edu/)
+- [The Human Connectome Project](http://www.humanconnectomeproject.org/)
+- [UCI - EEG Database Data Set](http://archive.ics.uci.edu/ml/datasets/EEG+Database)
+
 ### Startups
