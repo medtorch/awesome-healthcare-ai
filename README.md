@@ -6,6 +6,7 @@ A curated list of awesome open source healthcare tools, machine learning algorit
 
 - [Medical specialties](#medical-specialties)
 - [Medical privacy](#medical-privacy)
+- [Open-source](#open-source)
 - [References](#references)
 
 ### Medical specialties
@@ -49,8 +50,11 @@ A curated list of awesome open source healthcare tools, machine learning algorit
   * [Urology](resources/medical-specialties/urology.md)
   
 ### Medical Privacy
-  * [Safe harbour/Anonymization/De-identification]
-  * [Cryptography]
+  * Safe harbour/Anonymization/De-identification
+  * Cryptography
   
+### Open-Source
+  * NLP
+    - [medaCy](https://github.com/NLPatVCU/medaCy) - Medical Text Mining and Information Extraction with spaCy.
 ### References
   * [Stanford Medicine](https://stanford.cloud-cme.com/default.aspx)
