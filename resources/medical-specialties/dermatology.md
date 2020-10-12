@@ -12,8 +12,8 @@ Subspecialties within the dermatology field include the following:
 
 # Contents 
 - [:books: ML Research Papers](#research-papers)
-- [:smiley_cat: Open-source](#open-source)
-- [:notebook: Datasets](#datasets)
+- [:fire: Open-source](#open-source)
+- [:bar_chart: Datasets](#datasets)
 - [:eyes: Startups](#startups)
 
 ### Research Papers

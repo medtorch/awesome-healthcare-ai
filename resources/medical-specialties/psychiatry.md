@@ -21,10 +21,10 @@ Subspecialties within psychiatry include the following:
 
 # Contents 
 - [:books: ML Research Papers](#research-papers)
-- [:smiley_cat: Open-source](#open-source)
-- [:notebook: Datasets](#datasets)
+- [:fire: Open-source](#open-source)
+- [:bar_chart: Datasets](#datasets)
 - [:eyes: Startups](#startups)
-- [:fire: Competitions](#competitions)
+- [:cyclone: Competitions](#competitions)
 
 ### Research Papers & Articles
 * [Feeling Anxious? Perceiving Anxiety in Tweets using Machine Learning](https://arxiv.org/abs/1909.06959v1) - 2019

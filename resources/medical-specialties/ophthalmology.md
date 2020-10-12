@@ -16,10 +16,10 @@ There are several subspecialties within the ophthalmology field, including the f
 
 # Contents 
 - [:books: ML Research Papers](#research-papers)
-- [:smiley_cat: Open-source](#open-source)
-- [:notebook: Datasets](#datasets)
+- [:fire: Open-source](#open-source)
+- [:bar_chart: Datasets](#datasets)
 - [:eyes: Startups](#startups)
-- [:fire: Competitions](#competitions)
+- [:cyclone: Competitions](#competitions)
 
 ### Research Papers & Articles
 - [Deep Learning for Detection of Diabetic Eye Disease](https://ai.googleblog.com/2016/11/deep-learning-for-detection-of-diabetic.html) - Google - 2016.
