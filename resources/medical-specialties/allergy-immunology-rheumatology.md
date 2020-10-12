@@ -4,8 +4,8 @@
 # Contents 
 - [:books: ML Research Papers](#research-papers)
 - [:fire: Open-source](#open-source)
-- [:notebook: Datasets](#datasets)
-- [:bar_chart: Startups](#startups)
+- [:bar_chart: Datasets](#datasets)
+- [:eyes: Startups](#startups)
 
 ### Research Papers
 - 
