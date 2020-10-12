@@ -6,7 +6,7 @@
 - :bar_chart: [Datasets](#datasets)
 
 ### Articles
- - 
+ - [Combining structured and unstructured data for predictive models: a deep learning approach](https://www.medrxiv.org/content/10.1101/2020.08.10.20172122v1)
 
 ### Open-Source libraries
   * NLP
