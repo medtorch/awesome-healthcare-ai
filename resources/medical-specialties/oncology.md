@@ -43,6 +43,10 @@ Oncology is a branch of medicine that deals with the prevention, diagnosis, and 
 
 - [Cervical Cancer Screening](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/data)
 
+- [Multimodal Brain Tumor Segmentation Challenge](http://braintumorsegmentation.org/) - Large data set of brain tumor magnetic resonance scans. They’ve been extending this data set and challenge each year since 2012.
+
+- [Coding4Cancer](http://coding4cancer.org/)- A new initiative by the Foundation for the National Institutes of Health and Sage Bionetworks to host a series of challenges to improve cancer screening. The first is for digital mammography readings. The second is for lung cancer detection. The challenges are not yet launched.
+
 ### Startups
 
 
