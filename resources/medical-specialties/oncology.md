@@ -47,6 +47,7 @@ Oncology is a branch of medicine that deals with the prevention, diagnosis, and 
 
 - [Coding4Cancer](http://coding4cancer.org/)- A new initiative by the Foundation for the National Institutes of Health and Sage Bionetworks to host a series of challenges to improve cancer screening. The first is for digital mammography readings. The second is for lung cancer detection. The challenges are not yet launched.
 
+- [2019 Kidney and Kidney Tumor Segmentation Challenge (KiTS19)](https://github.com/neheller/kits19/)
 ### Startups
 
 
