@@ -77,4 +77,5 @@ They can also pursue a subspecialty in the following areas:
 
 - [Bone X-Ray Deep Learning Competition using MURA](https://stanfordmlgroup.github.io/competitions/mura/)
 
+- [Lymphography Data Set](https://archive.ics.uci.edu/ml/datasets/Lymphography) 
 ### Startups
