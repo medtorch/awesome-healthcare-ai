@@ -125,7 +125,11 @@ Disclaimer :exclamation: I am not a medical specialist, and there might be mista
   * [Medical VQA](https://github.com/aioz-ai/MICCAI19-MedVQA)
 
 ### Medical Privacy 
-  * Safe harbour/Anonymization/De-identification
+  * Safe harbour
+  * Anonymization
+  * De-identification
+     - [Customize Deep Learning-based De-Identification Systems Using Local Clinical Notes - A Study of Sample Size](https://www.medrxiv.org/content/10.1101/2020.08.09.20171231v1)
+     - [deidentify](https://github.com/nedap/deidentify)
   * Cryptography
 
 ### References 
