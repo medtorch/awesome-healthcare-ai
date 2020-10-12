@@ -6,10 +6,10 @@ Oncology is a branch of medicine that deals with the prevention, diagnosis, and 
 
 # Contents 
 - [:books: ML Research Papers](#research-papers)
-- [:smiley_cat: Open-source](#open-source)
-- [:notebook: Datasets](#datasets)
+- [:fire: Open-source](#open-source)
+- [:bar_chart: Datasets](#datasets)
 - [:eyes: Startups](#startups)
-- [:fire: Competitions](#competitions)
+- [:key: Competitions](#competitions)
 
 ### Research Papers & Articles
 - [Robust breast cancer detection in mammography and digital breast tomosynthesis using annotation-efficient deep learning approach](https://arxiv.org/abs/1912.11027v2) - 2019
