@@ -10,7 +10,7 @@ A curated list of awesome open source healthcare tools, machine learning algorit
 - [Open-source](#open-source)
 - [References](#references)
 
-### Medical specialties
+### Medical specialties :zap:
   * [Allergy, Immunology, & Rheumatology](resources/medical-specialties/allergy-immunology-rheumatology.md)
   * [Anesthesiology](resources/medical-specialties/anesthesiology.md)
   * [Cardiovascular Health](resources/medical-specialties/cardiovascular-health.md)
@@ -50,7 +50,7 @@ A curated list of awesome open source healthcare tools, machine learning algorit
   * [Surgery](resources/medical-specialties/surgery.md)
   * [Urology](resources/medical-specialties/urology.md)
   
-### Medical tasks
+### Medical tasks :cyclone:
   * [Semantic Segmentation](https://paperswithcode.com/area/medical/semantic-segmentation)
   * [Medical Image Segmentation](https://paperswithcode.com/area/medical/medical-image-segmentation)
   * [3D](https://paperswithcode.com/area/medical/3d)
@@ -75,14 +75,15 @@ A curated list of awesome open source healthcare tools, machine learning algorit
   * [Diabetic Retinopathy Detection](https://paperswithcode.com/area/medical/diabetic-retinopathy-detection)
   * [Protein Secondary Structure Prediction](https://paperswithcode.com/area/medical/protein-secondary-structure-prediction)
 
-### Medical Privacy
+### Medical Privacy :key:
   * Safe harbour/Anonymization/De-identification
   * Cryptography
   
-### Open-Source
+### Open-Source :fire:
   * NLP
     - [medaCy](https://github.com/NLPatVCU/medaCy) - Medical Text Mining and Information Extraction with spaCy.
   * Computer Vision
     - [monai](https://github.com/Project-MONAI/MONAI) - MONAI is a PyTorch-based, open-source framework for deep learning in healthcare imaging, part of PyTorch Ecosystem.
-### References
+    
+### References :book:
   * [Stanford Medicine](https://stanford.cloud-cme.com/default.aspx)
