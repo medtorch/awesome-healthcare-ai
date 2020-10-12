@@ -1,6 +1,8 @@
 # awesome-healthcare-ai
 A curated list of awesome open source healthcare tools, machine learning algorithms, datasets and research papers.
 
+Disclaimer :exclamation: : I am not a medical specialist, and there might be mistakes. :exclamation:
+
 
 ## Contents
 
