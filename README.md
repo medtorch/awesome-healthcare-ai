@@ -8,6 +8,7 @@ A curated list of awesome open source healthcare tools, machine learning algorit
 - :cyclone: [Medical tasks](#medical-tasks)
 - :key: [Medical privacy](#medical-privacy)
 - :fire: [Open-source](#open-source)
+- :bar_chart: [Generic datasets](#generic-datasets)
 - :book: [References](#references)
 
 ### :zap: Medical specialties 
@@ -147,7 +148,11 @@ A curated list of awesome open source healthcare tools, machine learning algorit
   * Compliance
     - [Datica HIPAA Compliance Policies](https://github.com/catalyzeio/policies)
     
-    
+### :bar_chart: Generic datasets(there are also per specialty logged)
+  * [MedPix](https://medpix.nlm.nih.gov/home) Database of 53,000 medical images from 13,000 patients with annotations. Requires registration.
+  * [Medical Decathlon](http://medicaldecathlon.com/) - Generalisable 3D Semantic Segmentation
+  * MedNIST
+  
 ### :book: References 
   * [Stanford Medicine](https://stanford.cloud-cme.com/default.aspx)
   * [Awesome Machine Learning in Biomedical Healthcare Imaging](https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging)
