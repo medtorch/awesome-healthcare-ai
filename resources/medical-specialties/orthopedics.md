@@ -6,10 +6,10 @@ Orthopedic surgery or orthopedics, also spelled orthopaedics, is the branch of s
 
 # Contents 
 - [:books: ML Research Papers](#research-papers)
-- [:smiley_cat: Open-source](#open-source)
-- [:notebook: Datasets](#datasets)
+- [:fire: Open-source](#open-source)
+- [:bar_chart: Datasets](#datasets)
 - [:eyes: Startups](#startups)
-- [:fire: Competitions](#competitions)
+- [:cyclone: Competitions](#competitions)
 
 ### Research Papers & Articles
 - [Automation of reading of radiological features from magnetic resonance images (MRIs) of the lumbar spine without human intervention is comparable with an expert radiologist](http://www.robots.ox.ac.uk/~vgg/publications/2017/Jamaludin17/jamaludin17.pdf) - 2017
