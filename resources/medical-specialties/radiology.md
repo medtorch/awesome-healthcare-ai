@@ -70,4 +70,10 @@ They can also pursue a subspecialty in the following areas:
 - [Prostate cancer](http://i2cvb.github.io/)
 
 - [MRI Lesion Segmentation in Multiple Sclerosis Database](http://www.ehealthlab.cs.ucy.ac.cy/index.php/facilities/32-software/218-datasets)
+
+- [SCR database: Segmentation in Chest Radiographs](http://www.isi.uu.nl/Research/Databases/SCR/)
+
+- [Visual Concept Extraction Challenge in Radiology ](http://www.visceral.eu/)
+
+
 ### Startups
