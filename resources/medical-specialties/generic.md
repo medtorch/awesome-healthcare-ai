@@ -8,6 +8,7 @@
 ### Articles
  - [Combining structured and unstructured data for predictive models: a deep learning approach](https://www.medrxiv.org/content/10.1101/2020.08.10.20172122v1)
  - [pymia: A Python package for data handling and evaluation](https://arxiv.org/pdf/2010.03639v1.pdf)
+ - [MINIMAR (MINimum Information for Medical AI Reporting): Developing reporting standards for artificial intelligence in health care](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocaa088/5864179?redirectedFrom=fulltext)
 ### Open-Source libraries
   * NLP
     - [medaCy](https://github.com/NLPatVCU/medaCy) - Medical Text Mining and Information Extraction with spaCy.
