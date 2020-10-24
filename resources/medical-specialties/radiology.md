@@ -35,6 +35,7 @@ They can also pursue a subspecialty in the following areas:
 - [COVID-19 Classification of X-ray Images Using Deep Neural Networks](https://www.medrxiv.org/content/10.1101/2020.10.01.20204073v1)
 - [Using reinforcement learning to personalize AI-accelerated MRI scans](https://ai.facebook.com/blog/using-reinforcement-learning-to-personalize-ai-accelerated-mri-scans/)
 - [Deep Learning for Automated Recognition of Covid-19 from Chest X-ray Images](https://www.medrxiv.org/content/10.1101/2020.08.13.20173997v1)
+- [DeepCSR: A 3D Deep Learning Approach for Cortical Surface Reconstruction](https://arxiv.org/pdf/2010.11423v1.pdf)
 
 ### Open-source
 - [OpenREM](https://bitbucket.org/openrem/openrem/src/develop/) - OpenREM is a free, open source application for patient radiation dose monitoring. The software is capable of importing and displaying data from a wide variety of x-ray dose related sources with filtering, charts and analysis. The software also enables easy export of the data in a form that is suitable for further analysis by suitably qualified medical physics personnel.
