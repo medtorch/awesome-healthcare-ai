@@ -14,6 +14,7 @@ Cardiology is a branch of medicine that deals with the disorders of the heart as
 - [Getting to the Heart of it: How Deep Learning is Transforming Cardiac Imaging](https://medium.com/stanford-ai-for-healthcare/getting-to-the-heart-of-it-how-deep-learning-is-transforming-cardiac-imaging-22d34bf91a4e) - 2018
 - [Artificial Intelligence in Cardiology](https://www.sciencedirect.com/science/article/pii/S0735109718344085) - 2018
 - [Cardiac imaging: working towards fully-automated machine analysis & interpretation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5450918/) - 2017
+- [A deep-learning system for the assessment of cardiovascular disease risk via the measurement of retinal-vessel calibre](https://www.nature.com/articles/s41551-020-00626-4), 2020
 
 ### Open-source
 - [cardIO: data science research of heart signals in Python](https://github.com/analysiscenter/cardio)

@@ -1,13 +1,17 @@
 # Generic resources
 
 
+- :book: [Articles](#articles)
 - :fire: [Open-source](#open-source)
 - :bar_chart: [Datasets](#datasets)
 
-  
+### Articles
+ - [Combining structured and unstructured data for predictive models: a deep learning approach](https://www.medrxiv.org/content/10.1101/2020.08.10.20172122v1)
+
 ### Open-Source libraries
   * NLP
     - [medaCy](https://github.com/NLPatVCU/medaCy) - Medical Text Mining and Information Extraction with spaCy.
+    - [deidentify](https://github.com/nedap/deidentify) - A Python library to de-identify medical records with state-of-the-art NLP methods. Pre-trained models for the Dutch language are available.
   * Computer Vision
     - [monai](https://github.com/Project-MONAI/MONAI) - MONAI is a PyTorch-based, open-source framework for deep learning in healthcare imaging, part of PyTorch Ecosystem.
   * Imaging
@@ -15,6 +19,7 @@
     - [DWV](https://github.com/ivmartel/dwv) - s an open source zero footprint medical image viewer library. It uses only javascript and HTML5 technologies, meaning that it can be run on any platform that provides a modern browser (laptop, tablet, phone and even modern TVs).
     - [OHIF Medical Imaging Viewer](https://github.com/OHIF/Viewers) - The OHIF Viewer is a zero-footprint medical image viewer provided by the Open Health Imaging Foundation (OHIF). It is a configurable and extensible progressive web application with out-of-the-box support for image archives which support DICOMweb.
     - [Papaya](https://github.com/rii-mango/Papaya) - Papaya is a pure JavaScript medical research image viewer, supporting DICOM and NIFTI formats, compatible across a range of web browsers. This orthogonal viewer supports overlays, atlases, GIFTI & VTK surface data and DTI data.
+    - [pymia](https://pypi.org/project/pymia/) - pymia is an open-source Python (py) package for deep learning-based medical image analysis (mia). The package addresses two main parts of deep learning pipelines: data handling and evaluation. 
   * Frameworks
     - [CareKit](https://github.com/carekit-apple/CareKit/) - CareKit is an open source software framework for creating apps that help people better understand and manage their health. 
     - [Clinical Meteor](https://github.com/clinical-meteor) - Meteor.js packages for HIPAA security, FDA precertification, and EHR interoperability.

@@ -24,6 +24,8 @@ There are several subspecialties within the ophthalmology field, including the f
 ### Research Papers & Articles
 - [Deep Learning for Detection of Diabetic Eye Disease](https://ai.googleblog.com/2016/11/deep-learning-for-detection-of-diabetic.html) - Google - 2016.
 - [Ridge-based vessel segmentation in color images of the retina]( https://ieeexplore.ieee.org/document/1282003)
+- [A deep-learning system for the assessment of cardiovascular disease risk via the measurement of retinal-vessel calibre](https://www.nature.com/articles/s41551-020-00626-4), 2020
+
 ### Open-source
 - 
 ### Datasets

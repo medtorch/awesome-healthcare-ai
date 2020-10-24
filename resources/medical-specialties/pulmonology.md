@@ -11,8 +11,10 @@ Pulmonology is considered a branch of internal medicine, and is related to inten
 - [:bar_chart: Datasets](#datasets)
 - [:eyes: Startups](#startups)
 
-### Research Papers
+### Research Papers & articles
 - [Application of artificial intelligence in respiratory medicine: Has the time arrived?](https://onlinelibrary.wiley.com/doi/full/10.1111/resp.13676), Lovejoy et. a, 2019.
+- [Preferred Networks Uses Deep Learning to Help Kyoto Physicians Diagnose Lung Cancer from Chest X-Ray Images](https://preferred.jp/en/news/pr20201012/)
+- [COVID-19 Classification of X-ray Images Using Deep Neural Networks](https://www.medrxiv.org/content/10.1101/2020.10.01.20204073v1)
 ### Open-source
 - 
 ### Datasets
@@ -24,3 +26,4 @@ Pulmonology is considered a branch of internal medicine, and is related to inten
 - [FLUIDDA](https://www.fluidda.com/) is the world leader in the field of Functional Respiratory Imaging. This technique combines HRCT scans and Computational Fluid Dynamics technology, which offers vast improvements by making clinical trials shorter, faster and thus, more cost effective.
 - [myCOPD](https://www.nhs.uk/apps-library/mycopd/)  helps people with COPD (chronic obstructive pulmonary disease) to better manage their condition. Use it to perfect your inhaler technique, improve your breathing, reduce exacerbations, track your medication and more.
 - [Tambua Health](https://www.tambuahealth.com/) 
+- [Preferred Networks, Inc](https://preferred.jp/en/)
