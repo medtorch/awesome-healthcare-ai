@@ -6,13 +6,12 @@ Hepatology, or hepatobiliary medicine, encompasses the study of the liver, pancr
 (definition from [Wikipedia](https://en.wikipedia.org/wiki/Gastroenterology))
 # Contents 
 - [:books: ML Research Papers](#research-papers)
-- [The Effectiveness of Data Augmentation for Detection of Gastrointestinal Diseases from Endoscopical Images](https://arxiv.org/abs/1712.03689) - 2017
 - [:fire: Open-source](#open-source)
 - [:bar_chart: Datasets](#datasets)
 - [:eyes: Startups](#startups)
 
 ### Research Papers
-- 
+- [The Effectiveness of Data Augmentation for Detection of Gastrointestinal Diseases from Endoscopical Images](https://arxiv.org/abs/1712.03689) - 2017
 ### Open-source
 - 
 ### Datasets
