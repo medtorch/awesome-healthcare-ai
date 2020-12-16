@@ -7,7 +7,8 @@
 
 ### Articles
  - [Combining structured and unstructured data for predictive models: a deep learning approach](https://www.medrxiv.org/content/10.1101/2020.08.10.20172122v1)
-
+ - [pymia: A Python package for data handling and evaluation](https://arxiv.org/pdf/2010.03639v1.pdf)
+ - [MINIMAR (MINimum Information for Medical AI Reporting): Developing reporting standards for artificial intelligence in health care](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocaa088/5864179?redirectedFrom=fulltext)
 ### Open-Source libraries
   * NLP
     - [medaCy](https://github.com/NLPatVCU/medaCy) - Medical Text Mining and Information Extraction with spaCy.
@@ -38,6 +39,6 @@
   * [Building the graph of medicine from millions of clinical narratives](http://www.nature.com/articles/sdata201432) [[data](http://datadryad.org/resource/doi:10.5061/dryad.jp917)] - Co-occurence statistics for medical terms extracted from 14 million clinical notes and 260,000 patients.
   * [Learning Low-Dimensional Representations of Medical Concept](http://physionet.org/physiobank/database/mimic3cdb/) - Anonymized critical care EHR database on 38,597 patients and 53,423 ICU admissions. Requires registration.
   * [Clinical Concept Embeddings Learned from Massive Sources of Medical Data](https://arxiv.org/abs/1804.01486) - Embeddings for 108,477 medical concepts learned from 60 million patients, 1.7 million journal articles, and clinical notes of 20 million patients. [Interactive tool.](http://cui2vec.dbmi.hms.harvard.edu)
- 
+  * [MIMIC critical care database](https://mimic.physionet.org/) - MIMIC is an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~60,000 intensive care unit admissions. It includes demographics, vital signs, laboratory tests, medications, and more.
 
   
