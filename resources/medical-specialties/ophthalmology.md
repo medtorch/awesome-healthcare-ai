@@ -28,7 +28,8 @@ There are several subspecialties within the ophthalmology field, including the f
 - [A global review of publicly available datasets for ophthalmological imaging: barriers to access, usability, and generalisability](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(20)30240-5/fulltext)
 
 ### Open-source
-- 
+- [GlaucoScan.ai](https://github.com/KrishNachnani/glaucoma-detector-ai) – Open-source AI tool for glaucoma detection using fundus images and lightweight models. Designed for mobile and low-resource clinic settings; includes synthetic data augmentation and a Next.js + FastAPI web interface.
+ 
 ### Datasets
 - [Digital Retinal Images for Vessel Extraction (DRIVE)](http://www.isi.uu.nl/Research/Databases/DRIVE/download.php) The DRIVE database is for comparative studies on segmentation of blood vessels in retinal images. It consists of 40 photographs out of which 7 showing signs of mild early diabetic retinopathy.
 
