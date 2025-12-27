@@ -13,9 +13,10 @@ Endocrinology is a branch of biology and medicine dealing with the endocrine sys
 ### Research Papers
 - 
 ### Open-source
-- 
+- [Acara Plate](https://plate.acara.app) - An open-source, AI-powered nutritionist for diabetes and metabolic health, featuring self-hosted privacy and safety guardrails.
 ### Datasets
 - [Kaggle diabetic retinopathy](https://www.kaggle.com/c/diabetic-retinopathy-detection)
 - [Thyroid Disease Data Set](https://archive.ics.uci.edu/ml/datasets/Thyroid+Disease)
 
 ### Startups
+
