@@ -31,6 +31,8 @@
 
   * Compliance
     - [Datica HIPAA Compliance Policies](https://github.com/catalyzeio/policies)
+  * Systematic Review & Meta-Analysis
+    - [MetaReview](https://metareview-8c1.pages.dev/) - AI-powered systematic review and meta-analysis tool. Features AI literature screening (Llama 3.1 8B), AI PDF data extraction, PubMed integration, PICO-based keyword scoring, and automated PRISMA workflow. Supports OR/RR/HR/MD/SMD effect sizes. Free, browser-based, bilingual (Chinese/English).
     
 ### Datasets
   * [MedPix](https://medpix.nlm.nih.gov/home) Database of 53,000 medical images from 13,000 patients with annotations. Requires registration.
