@@ -140,3 +140,4 @@ Disclaimer :exclamation: I am not a medical specialist, and there might be mista
   * [Awesome Healthmetrics](https://github.com/leandromineti/awesome-healthmetrics)
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data)
   * [Awesome mental health](https://github.com/dreamingechoes/awesome-mental-health)
+  * [Bloodboy](https://github.com/mizoloff/bloodboy) - Privacy-first browser-based blood test tracker with local storage and visualization. No account required.
