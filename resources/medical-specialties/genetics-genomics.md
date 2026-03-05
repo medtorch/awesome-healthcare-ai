@@ -19,6 +19,7 @@ Genomics is a more recent term that describes the study of all of a person's gen
 
 ### Open-source
 - [biopython: python tools for computational molecular biology](https://github.com/biopython/biopython)
+- [dna-claude-analysis: AI-powered personal genome analysis across 17 health categories](https://github.com/shmlkv/dna-claude-analysis)
 - [pyGeno: personalized Genomics and Proteomics](https://github.com/tariqdaouda/pyGeno)
 
 ### Datasets
