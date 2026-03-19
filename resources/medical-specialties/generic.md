@@ -22,9 +22,10 @@
     - [Papaya](https://github.com/rii-mango/Papaya) - Papaya is a pure JavaScript medical research image viewer, supporting DICOM and NIFTI formats, compatible across a range of web browsers. This orthogonal viewer supports overlays, atlases, GIFTI & VTK surface data and DTI data.
     - [pymia](https://pypi.org/project/pymia/) - pymia is an open-source Python (py) package for deep learning-based medical image analysis (mia). The package addresses two main parts of deep learning pipelines: data handling and evaluation. 
   * Frameworks
-    - [CareKit](https://github.com/carekit-apple/CareKit/) - CareKit is an open source software framework for creating apps that help people better understand and manage their health. 
+    - [CareKit](https://github.com/carekit-apple/CareKit/) - CareKit is an open source software framework for creating apps that help people better understand and manage their health.
     - [Clinical Meteor](https://github.com/clinical-meteor) - Meteor.js packages for HIPAA security, FDA precertification, and EHR interoperability.
     - [Fhirbase](https://github.com/fhirbase) - Open source storage based on the FHIR standard ready for use in production.
+    - [healthcare-agents](https://github.com/ajhcs/healthcare-agents) - 51 specialized healthcare administration AI agents with MHA-level expertise across 10 divisions (revenue cycle, compliance, quality, clinical ops, payer relations, health IT, pharmacy, emergency preparedness, and more). Includes real regulatory citations (42 CFR, CMS transmittals), operational templates, and is compatible with Claude Code, Codex CLI, and Gemini CLI.
     - [IBM/FHIR](https://github.com/IBM/FHIR) - The IBM® FHIR® Server is a modular Java implementation of version 4 of the HL7 FHIR specification with a focus on performance and configurability.
     - [Opal](https://github.com/openhealthcare/opal) - Opal is a full stack web framework that makes building digital tools for health care easy.
     - [google/fhir](https://github.com/google/fhir) - FhirProto is Google’s implementation of the FHIR Standard for Health Care data using Protocol Buffers.
