@@ -27,3 +27,4 @@ Genomics is a more recent term that describes the study of all of a person's gen
 - [Project Achilles](https://portals.broadinstitute.org/achilles)
 - [The drug gene interaction database](http://www.dgidb.org/)
 ### Startups
+- [DeepDNA](https://deepdna.ai) - European AI-powered consumer DNA analysis platform. Analyzes raw genetic data from 23andMe/AncestryDNA to provide health, nutrigenomics, and pharmacogenomics insights. GDPR-compliant, EU-hosted.
