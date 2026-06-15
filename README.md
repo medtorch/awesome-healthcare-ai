@@ -16,7 +16,7 @@ Disclaimer :exclamation: I am not a medical specialist, and there might be mista
   * [Allergy, Immunology, & Rheumatology](resources/medical-specialties/allergy-immunology-rheumatology.md)
   * [Anesthesiology](resources/medical-specialties/anesthesiology.md)
   * [Cardiovascular Health](resources/medical-specialties/cardiovascular-health.md)
-  * [Complimentary Medicine](resources/medical-specialties/complimentary-medicine.md)
+  * [Complementary Medicine](resources/medical-specialties/complementary-medicine.md)
   * [Critical Care](resources/medical-specialties/critical-care.md)
   * [Dermatology](resources/medical-specialties/dermatology.md)
   * [Emergency Medicine & Trauma](resources/medical-specialties/emergency-medicine.md)
