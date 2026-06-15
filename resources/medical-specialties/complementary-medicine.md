@@ -1,4 +1,4 @@
-# Complimentary Medicine :heavy_exclamation_mark:
+# Complementary Medicine :heavy_exclamation_mark:
 
 
 
