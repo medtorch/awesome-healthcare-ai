@@ -31,6 +31,9 @@
 
   * Compliance
     - [Datica HIPAA Compliance Policies](https://github.com/catalyzeio/policies)
+
+  * Fairness & Bias
+    - [Fair Code](https://github.com/yakew7/Fair-Code) - An open-source project that audits AI systems, including a hospital readmission model, for algorithmic bias, comparing biased baselines against mitigated versions with measured fairness metrics.
     
 ### Datasets
   * [MedPix](https://medpix.nlm.nih.gov/home) Database of 53,000 medical images from 13,000 patients with annotations. Requires registration.
