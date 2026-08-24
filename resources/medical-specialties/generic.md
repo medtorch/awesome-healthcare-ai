@@ -9,8 +9,10 @@
  - [Combining structured and unstructured data for predictive models: a deep learning approach](https://www.medrxiv.org/content/10.1101/2020.08.10.20172122v1)
  - [pymia: A Python package for data handling and evaluation](https://arxiv.org/pdf/2010.03639v1.pdf)
  - [MINIMAR (MINimum Information for Medical AI Reporting): Developing reporting standards for artificial intelligence in health care](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocaa088/5864179?redirectedFrom=fulltext)
+ - [An Independent Evaluation of AI Scientist v2 on Biomedical Research Tasks](https://github.com/calnugget/ai-scientist-v2-biomedical-audit) - Pre-registered (OSF: osf.io/aqchj) independent evaluation of Sakana AI's autonomous research agent on 10 biomedical prompts across 24 generated manuscripts. Introduces a 25-field dual-track (AI-drafted + human-adjudicated) scoring rubric with human-baseline comparators. MIT + Zenodo DOI 10.5281/zenodo.21961765.
 ### Open-Source libraries
   * NLP
+    - [AdverseMed-500](https://github.com/calnugget/adversemed-500) - 500 hand-verified false-premise medical MCQs where the correct action is abstention, with a companion `pip install adversemed-gen` generator for extending the benchmark. Four failure categories (contraindication, drug-drug interaction, impossible timing, physiological impossibility) with CDC / FDA / clinical-guideline references per item. Companion 5-model x 4-elicitation-method calibration analysis. MIT (code) + CC-BY-4.0 (data). Zenodo DOI 10.5281/zenodo.21961771.
     - [medaCy](https://github.com/NLPatVCU/medaCy) - Medical Text Mining and Information Extraction with spaCy.
     - [deidentify](https://github.com/nedap/deidentify) - A Python library to de-identify medical records with state-of-the-art NLP methods. Pre-trained models for the Dutch language are available.
   * Computer Vision
