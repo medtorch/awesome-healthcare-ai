@@ -9,6 +9,10 @@
  - [Combining structured and unstructured data for predictive models: a deep learning approach](https://www.medrxiv.org/content/10.1101/2020.08.10.20172122v1)
  - [pymia: A Python package for data handling and evaluation](https://arxiv.org/pdf/2010.03639v1.pdf)
  - [MINIMAR (MINimum Information for Medical AI Reporting): Developing reporting standards for artificial intelligence in health care](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocaa088/5864179?redirectedFrom=fulltext)
+### Education
+
+  * [BioDockify Learn - AI in Healthcare: Diagnosis to Drug Discovery](https://learn.biodockify.com) - Free AI-narrated video course (24 lessons): explainable clinical AI (SHAP, LIME, GradCAM, GEMEX), EHR/imaging architectures, IoMT wearables, governance, adversarial security, and clinical-judgment training (automation bias, when to override AI).
+
 ### Open-Source libraries
   * NLP
     - [medaCy](https://github.com/NLPatVCU/medaCy) - Medical Text Mining and Information Extraction with spaCy.
