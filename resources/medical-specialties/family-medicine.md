@@ -21,7 +21,7 @@ There are family medicine subspecialties as well, including the following:
 ### Research Papers
 - 
 ### Open-source
-- 
+- [Human Rounds](https://github.com/visualpharm/human-rounds) - Open-source, AI-native platform for the work around care: AI patient intake before the visit, service discovery, appointments, referral-first requests and care coordination. Reference installation is a public-health access layer for a municipal hospital and its primary-care network. Apache-2.0.
 ### Datasets
 - 
 ### Startups
