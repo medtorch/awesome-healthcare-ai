@@ -8,7 +8,8 @@
 - [:eyes: Startups](#startups)
 
 ### Research Papers
-- 
+- [Identification and Classification of Rheumatoid Arthritis Using Artificial Intelligence and Machine Learning](https://doi.org/10.1016/B978-0-443-15748-6.00007-4) - Sajjadi Mohammadabadi & Peikani (Academic Press, 2025). Clinical imaging interpretation and deep learning classification of rheumatoid arthritis.
+
 ### Open-source
 - 
 ### Datasets
