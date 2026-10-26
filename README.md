@@ -140,3 +140,4 @@ Disclaimer :exclamation: I am not a medical specialist, and there might be mista
   * [Awesome Healthmetrics](https://github.com/leandromineti/awesome-healthmetrics)
   * [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data)
   * [Awesome mental health](https://github.com/dreamingechoes/awesome-mental-health)
+- [Level Outpatient Healthcare Benchmarks & LevelBench-100](https://levelcfo.com/benchmarks/healthcare/) - Open outpatient clinic revenue-cycle benchmarks (Days in Net A/R, POS collection %, claim denial rates) and multi-system EHR/ERA-835/MSO-PC AI accounting evaluation dataset ([GitHub](https://github.com/levelcfo/levelbench-100)).
